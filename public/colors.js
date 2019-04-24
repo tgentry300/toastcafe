@@ -1,0 +1,5 @@
+export const colorRed = '#cc2d30'
+export const colorBlue = '#9bdbc1'
+export const colorYellow = '#efe8ad'
+export const colorGreen = '#aadd96'
+export const colorPink = '#e8a5af'
